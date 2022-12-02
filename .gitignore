@@ -1,1 +1,3 @@
-/notebooks/pytorch-for-information-extraction/*
+notebooks/pytorch-for-information-extraction/
+notebooks/*.onnx
+notebooks/*.pth
