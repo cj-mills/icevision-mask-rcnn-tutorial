@@ -4,7 +4,7 @@
 
 ## Tutorial Links
 
-* Link: Train a [Mask R-CNN](https://arxiv.org/abs/1703.06870) model on a custom dataset using the [IceVision](https://airctic.com/0.11.0/) library.
+* Link: Train a [Mask R-CNN](https://arxiv.org/abs/1703.06870) model on a custom dataset using the [IceVision](https://airctic.com/0.11.0/) library and export it to [ONNX](https://onnx.ai/).
 
 
 
